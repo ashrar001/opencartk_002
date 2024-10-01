@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class Account_registration_page extends BaseClass{
+public class Account_registration_page extends BasePage{
 	public Account_registration_page(WebDriver driver) {
 		super(driver);
 	}
