@@ -23,4 +23,29 @@
  20:43:05.303 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
  20:43:08.354 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
  20:43:08.539 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:19:19.654 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:19:20.085 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:19:24.852 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:19:24.858 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:19:31.127 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:19:31.421 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:21:23.812 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:21:24.376 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:21:36.929 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:21:36.934 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:21:56.552 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:21:56.694 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:26:42.393 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\opencardv1\testng.xml"
+ 22:27:35.406 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:27:35.742 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:27:38.494 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:27:38.553 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:27:46.945 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:27:47.115 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 23:54:55.428 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 23:54:56.704 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 23:54:57.629 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 23:54:57.635 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 23:55:00.555 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 23:55:00.689 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
  

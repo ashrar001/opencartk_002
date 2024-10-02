@@ -20,5 +20,4 @@ public class HomePage extends BasePage{
 	public void clickRegister() {
 		linkRegister.click();
 	}
-
 }
