@@ -48,4 +48,208 @@
  23:54:57.635 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
  23:55:00.555 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
  23:55:00.689 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 00:26:54.051 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\opencardv1\testng.xml"
+ 00:27:08.665 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 00:27:10.206 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 00:27:11.650 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 00:27:11.658 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 00:27:15.849 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 00:27:16.315 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 21:27:04.172 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 21:27:05.319 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 21:27:05.951 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 21:27:05.956 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 21:27:08.170 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 21:27:08.239 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 21:28:38.785 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 21:28:38.991 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 21:28:39.538 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 21:28:39.545 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 21:28:42.083 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 21:28:42.214 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 21:33:06.059 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 21:33:07.646 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 21:33:08.848 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 21:33:08.855 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 21:33:12.667 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 21:33:12.788 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 21:37:33.162 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 21:37:33.576 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 21:37:35.571 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 21:37:35.575 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 21:37:38.316 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 21:37:38.413 [main] ERROR testCase.TC001_Account_Regristration_Test - test failed_--__
+ 21:37:38.413 [main] DEBUG testCase.TC001_Account_Regristration_Test - Debug logs**
+ 21:40:50.473 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 21:40:51.676 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 21:40:53.569 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 21:40:53.572 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 21:40:56.184 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 21:40:56.371 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:02:18.187 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:02:18.743 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:02:19.802 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:02:19.806 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:02:22.755 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:02:22.918 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:02:36.055 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:02:36.549 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:02:37.621 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:02:37.624 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:02:40.016 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:02:40.136 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:02:51.355 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:02:52.612 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:02:53.563 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:02:53.565 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:02:55.970 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:02:56.086 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:04:29.054 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:04:30.456 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:04:31.906 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:04:31.991 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:04:34.273 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:04:34.415 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:04:48.778 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:04:49.909 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:04:50.574 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:04:50.578 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:04:53.040 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:04:53.132 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:05:04.499 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:05:05.463 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:05:06.096 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:05:06.097 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:05:08.612 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:05:08.754 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:08:14.093 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:08:14.631 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:08:16.952 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:08:16.956 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:08:20.715 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:08:20.848 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:08:41.718 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:08:41.895 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:08:42.517 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:08:42.519 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:08:44.885 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:08:45.075 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:08:51.555 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:08:51.707 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:08:52.248 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:08:52.251 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:08:54.536 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:08:54.649 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:11:00.328 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:11:01.543 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:11:02.385 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:11:02.389 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:11:05.370 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:11:05.493 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:11:24.426 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:11:24.643 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:11:25.779 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:11:25.783 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:11:28.245 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:11:28.332 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:11:34.213 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 22:11:35.241 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 22:11:35.860 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 22:11:35.862 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 22:11:38.605 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 22:11:38.707 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 06:37:38.203 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 06:37:39.503 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 06:37:40.675 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 06:37:40.681 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 06:37:43.730 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 06:37:43.938 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 06:38:28.581 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 06:38:29.112 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 06:38:30.974 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 06:38:30.978 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 06:38:34.326 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 06:38:34.450 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 21:51:49.079 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 21:51:50.869 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 21:51:51.915 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 21:51:52.088 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 21:51:56.510 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 21:51:56.739 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 21:52:33.823 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 21:52:34.804 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 21:52:37.248 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 21:52:37.263 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 21:52:42.680 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 21:52:42.853 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 21:52:59.380 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 21:53:00.769 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 21:53:02.633 [main] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 21:53:02.640 [main] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 21:53:06.555 [main] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 21:53:06.774 [main] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 22:11:56.861 [main] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 22:12:35.642 [main] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 22:17:00.279 [main] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 22:17:05.850 [main] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 22:26:48.360 [main] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 22:26:54.236 [main] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 22:27:13.039 [main] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 22:27:17.302 [main] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 22:27:32.425 [main] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 22:27:36.277 [main] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:02:55.081 [TestNG-tests-1] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:03:00.216 [TestNG-tests-3] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:03:05.706 [TestNG-tests-1] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:03:06.547 [TestNG-tests-3] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:03:13.053 [TestNG-tests-2] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:03:15.536 [TestNG-tests-2] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:06:52.087 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 23:06:55.516 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 23:06:56.955 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 23:06:57.538 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 23:06:57.545 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 23:07:00.567 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 23:07:03.928 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 23:07:03.932 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 23:07:08.103 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 23:07:08.548 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 23:07:09.582 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 23:07:09.585 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 23:07:13.096 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 23:07:13.312 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 23:07:14.746 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 23:07:15.097 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 23:07:15.553 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 23:07:15.655 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 23:07:31.181 [TestNG-tests-1] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:07:37.090 [TestNG-tests-1] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:07:43.255 [TestNG-tests-2] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:07:45.443 [TestNG-tests-3] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:07:47.683 [TestNG-tests-2] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:07:49.091 [TestNG-tests-3] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:25:42.385 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 23:25:43.032 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 23:25:45.369 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 23:25:46.136 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 23:25:48.667 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 23:25:48.671 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 23:25:50.807 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 23:25:50.810 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 23:25:53.950 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** Starting TC001_Account_Regristration_Test ***
+ 23:25:54.392 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** click my account ***
+ 23:25:55.405 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** click my register ***
+ 23:25:55.407 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** providing customer details**** 
+ 23:25:58.345 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 23:25:58.589 [TestNG-tests-2] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 23:26:00.804 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 23:26:01.052 [TestNG-tests-1] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 23:26:01.695 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** validating expected result**** 
+ 23:26:01.788 [TestNG-tests-3] INFO  testCase.TC001_Account_Regristration_Test - **** Finish TC001_Account_Regristration_Test**** 
+ 23:26:27.680 [TestNG-tests-3] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:26:36.300 [TestNG-tests-3] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:26:38.423 [TestNG-tests-2] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:26:42.597 [TestNG-tests-2] INFO  testCase.TC002_Login_Test - *****login finished ******
+ 23:26:43.516 [TestNG-tests-1] INFO  testCase.TC002_Login_Test - ****** login started ******
+ 23:26:46.641 [TestNG-tests-1] INFO  testCase.TC002_Login_Test - *****login finished ******
  
